@@ -26,5 +26,5 @@ I'm a Frontend Web Developer. 🌱
 <div style= "display: flex">
   <img src ="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
     <img src ="https://img.shields.io/badge/-Visual Studio Code-007ACC?&style=for-the-badge&logo=Visual Studio Code&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px" />
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
 </div>
